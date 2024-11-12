@@ -1,5 +1,5 @@
 .container{
-    background-image: url('/image/learning-background.jpg');
+    background-image: url('/image/aboout.avif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@
     left: 0;
     width: 100%;
     height: 500px;
-    background:rgba(41, 41, 224, 0.7);
+    background:rgba(91, 91, 154, 0.7);
     border-bottom-right-radius: 220px;
 }
 #nav-container{

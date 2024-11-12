@@ -5,7 +5,7 @@
 .background-container{
     height: 500px;
     width: 100%;
-    background-image: url('/image/coursesbackground1.jpg');
+    background-image: url('girl.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -97,7 +97,7 @@
 .category{
     height: 45px;
     width: 245px;
-    border:1px solid rgb(168, 168, 168);
+    border:1px solid gray;
     border-radius: 5px;
     font-size: 15px;
     padding-left: 15px;
@@ -107,7 +107,7 @@
     width: 200px;
     border:1px solid rgb(168, 168, 168);
     border-radius: 5px;
-    background-color: purple;
+    background-color: blue;
     color: white;
     font-size: 20px;
 }
@@ -124,7 +124,7 @@
 }
 .box{
     height: 512px;
-    border: 1px solid rgb(179, 178, 178);
+    border: 1px solid blue;
     margin-top: 25px;
     border-radius: 7px;
 }
@@ -152,7 +152,7 @@
 .enroll-btn{
     height: 44px;
     width: 150px;
-    background-color: rgb(26, 152, 202);
+    background-color: rgb(129, 114, 182);
     border: none;
     color: white;
     border-radius: 15px;
